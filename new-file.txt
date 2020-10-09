@@ -1,2 +1,1 @@
-hello worldnew feature
-new test
+new changes in master
